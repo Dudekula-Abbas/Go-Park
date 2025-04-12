@@ -5,6 +5,28 @@
   <img src="https://img.shields.io/badge/View-Figma_Design-blue?style=for-the-badge&logo=figma" alt="Figma Prototype Button"> 
 </a>
 -->
+<!-- Requirement Document Button -->
+<!-- Figma Prototype Button -->
+<a href="YOUR_FIGMA_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/View-Figma_Design-3498db?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Prototype Button">
+</a>
+
+<a href="https://github.com/Dudekula-Abbas/Go-Park_SDET/blob/main/Go-Park%20Requirement.docx" target="_blank">
+  <img src="https://img.shields.io/badge/View-Requirement_Document-1abc9c?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Requirement Document Button">
+</a>
+
+<!-- Test Cases Sheet Button -->
+<a href="https://github.com/Dudekula-Abbas/Go-Park_SDET/blob/main/Go-Park%20Test%20Cases.xlsx" target="_blank">
+  <img src="https://img.shields.io/badge/View-Test_Cases_Sheet-e67e22?style=for-the-badge&logo=buffer&logoColor=white" alt="Test Cases Sheet Button">
+</a>
+
+<!-- Email Button -->
+<a href="mailto:your-abbasd3732@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Contact-Me-e74c3c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button">
+</a>
+
+
+
 ---    
 
 
