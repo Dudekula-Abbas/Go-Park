@@ -36,6 +36,7 @@
 
 As a **Software Tester**, I tested the app step by step, from understanding the requirements to checking every feature. This includes writing test cases, testing the app’s functions, and making sure everything works smoothly. This repository shows the entire testing process, from start to finish.
 
+- Writing Requirement
 - Writing test cases  
 - Testing the app's functionality  
 - Ensuring everything works smoothly  
