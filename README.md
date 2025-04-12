@@ -79,8 +79,8 @@ As a **Software Tester**, I tested the app step by step, from understanding the 
 ---
 
 ## 📧 Contact  
-<a href="abbasd3732@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail" alt="Email Button">
+<a href="mailto:your-abbasd3732@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Contact-Me-e74c3c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button">
 </a>
 
 ---
