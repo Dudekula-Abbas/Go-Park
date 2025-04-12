@@ -8,7 +8,7 @@
 <!-- Requirement Document Button -->
 <!-- Figma Prototype Button -->
 <a href="YOUR_FIGMA_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/View-Figma_Design-3498db?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Prototype Button">
+  <img src="https://www.figma.com/proto/0PnZt0Hvtg2zU8ABjrTlrg/GoPark?t=U3QpWOpIxiwEfmsI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=23-3&starting-point-node-id=23%3A3" alt="Figma Prototype Button">
 </a>
 
 <a href="https://github.com/Dudekula-Abbas/Go-Park_SDET/blob/main/Go-Park%20Requirement.docx" target="_blank">
