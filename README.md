@@ -18,7 +18,7 @@ As a **Software Tester**, I tested the app step by step, from understanding the 
 - Ensuring everything works smoothly  
 ---
 
-## 📌 Testing Workflow
+## 📌 SDET Workflow
 
 ### 1️⃣ Requirement Analysis
 - Understanding the business requirements for the **Smart Parking Spot Finder** app.
